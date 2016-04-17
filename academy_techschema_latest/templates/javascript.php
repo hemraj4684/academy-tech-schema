@@ -1,0 +1,9 @@
+<script type='text/javascript' src="<?php echo DOMAIN; ?>/js/jquery-2.1.js"></script>
+<script type='text/javascript' src="<?php echo DOMAIN; ?>/js/bootstrap.min.js"></script>
+<script type='text/javascript' src="<?php echo DOMAIN; ?>/js/jquery.easing.1.3.js"></script> 
+<script type="text/javascript" src="<?php echo DOMAIN; ?>/js/jquery.validate1.9.0.js"></script>
+<script type="text/javascript" src="<?php echo DOMAIN; ?>/js/hoverintent.js"></script>
+<script type="text/javascript" src="<?php echo DOMAIN; ?>/js/jquery-ui-1.10.3.custom.min.js"></script>
+<script type="text/javascript" src="<?php echo DOMAIN; ?>/js/form_validation.js"></script>
+<script type="text/javascript" src="<?php echo DOMAIN; ?>/js/userpanel_form_validation.js"></script>
+<script type="text/javascript" src="<?php echo DOMAIN; ?>/js/windowheight.js"></script>
